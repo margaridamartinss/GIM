@@ -18,4 +18,4 @@ https://github.com/margaridamartinss/GIM/Esercizio_1A/spostamento_2.html
 https://github.com/margaridamartinss/GIM/Esercizio_1A/spostamento_3.html
 
 # esrcizio_1B
-https://github.com/margaridamartinss/GIM/Esercizio_1B
+https://github.com/margaridamartinss/GIM/Esercizio_1B/indexA.html
