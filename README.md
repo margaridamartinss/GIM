@@ -16,3 +16,6 @@ https://github.com/margaridamartinss/GIM/Esercizio_1A/rotazione_3.html
 https://github.com/margaridamartinss/GIM/Esercizio_1A/spostamento_2.html
 
 https://github.com/margaridamartinss/GIM/Esercizio_1A/spostamento_3.html
+
+# esrcizio_1B
+https://github.com/margaridamartinss/GIM/Esercizio_1B
